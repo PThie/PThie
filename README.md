@@ -2,31 +2,37 @@
 
 I am a passionate data scientist currently pursuing a Ph.D. in Economics, where I explore the intricate relationships between data and economic phenomena, with a particular focus on the real estate market, amenities and disamenities, and environmental factors. With over 5 years (and counting) of hands-on experience in the field, I navigate the nuances of data and its idiosyncrasies on a daily basis.
 
-## Languages and Tools I use
+## Languages and Tools
 <!-- markdownlint-disable MD033 -->
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
-  &nbsp;
+<p align="center">
+<img src="https://skillicons.dev/icons?i=r&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  &nbsp;
+<img src="https://skillicons.dev/icons?i=py&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   &nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="latex" width="40" height="40"/>
-  &nbsp;
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  &nbsp;
+    <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
+</p>
+
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,anaconda,latex&theme=light" />
+</p>
+
+## Get in touch
+
+<p align="center">
+  <a href="https://medium.com/@patthie">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</p>
 
 <!-- TEST AREA
 ## Get in touch 
