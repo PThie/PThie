@@ -30,8 +30,15 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 ## Get in touch
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/patrick-thiel01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://medium.com/@patthie">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+<a href="https://twitter.com/home?lang=en">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 </p>
 
 <!-- TEST AREA
