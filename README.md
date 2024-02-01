@@ -29,6 +29,15 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 
 
 <!-- TEST AREA
+## Get in touch 
+
+<a class="social" href="https://www.linkedin.com/in/patrick-thiel-52b4781a0"><i class="fab fa-linkedin"></i></a>
+                        <td class="animated zoomIn" style="animation-delay:3.0s;"><a class="social" href="https://github.com/PThie"><i class="fab fa-github"></i></a></td>
+                        <td class="animated zoomIn" style="animation-delay:3.0s;"><a class="social" href="https://www.patrickthiel.com"><i class="fas fa-globe"></i></a></td>
+                        <td class="animated zoomIn" style="animation-delay:3.0s;"><a class="social" href="https://medium.com/@patthie"><i class="fab fa-medium"></i></a></td>
+                        <td class="animated zoomIn" style="animation-delay:3.0s;"><a class="social" href="https://twitter.com/patrickthiel01"><i class="fab fa-twitter"></i></a></td>
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=PThie&theme=monokai&background=18181881)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
