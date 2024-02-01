@@ -1,7 +1,8 @@
-# Greetings 👋
+# Greetings 👋!
 
+I am a passionate data scientist currently pursuing a Ph.D. in Economics, where I explore the intricate relationships between data and economic phenomena, with a particular focus on the real estate market, amenities and disamenities, and environmental factors. With over 5 years (and counting) of hands-on experience in the field, I navigate the nuances of data and its idiosyncrasies on a daily basis.
 
-## Languages and Tools
+## Languages and Tools I use
 <!-- markdownlint-disable MD033 -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
@@ -30,6 +31,6 @@
 <!-- TEST AREA
 [![GitHub Streak](https://streak-stats.demolab.com?user=PThie&theme=monokai&background=18181881)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthie&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pthie&theme=monokai&bg_color=18181881&&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 -->
