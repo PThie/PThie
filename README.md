@@ -23,7 +23,7 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 </p>
 
 <p>
-  <img src="https://github-readme-stats-patricks-projects-a2ec2c8e.vercel.app/api/top-langs/?username=pthie&layout=donut"/>
+  <img src="https://github-readme-stats-patricks-projects-a2ec2c8e.vercel.app/api/top-langs/?username=pthie&layout=donut&theme=radical"/>
 </p>
 
 
