@@ -27,10 +27,6 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 </p>
 
 
-
-
-
-
 ## Get in touch
 
 <p align="center">
@@ -48,3 +44,6 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 </a>
 </p>
 
+<p>
+<img src="https://komarev.com/ghpvc/?username=pthie&style=flat-square&color=green" alt="" align="right"/>
+</p>
