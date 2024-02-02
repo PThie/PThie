@@ -4,7 +4,7 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
 
 ## Languages and Tools
 <!-- markdownlint-disable MD033 -->
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=r&theme=light" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/>
   &nbsp;
@@ -15,17 +15,21 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
   &nbsp;
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
   &nbsp;
     <img src="https://skillicons.dev/icons?i=vscode&theme=light" />
-</p>
-
-</p>
-
-<p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,anaconda,latex&theme=light" />
 </p>
+
+<p>
+  <img src="https://github-readme-stats-patricks-projects-a2ec2c8e.vercel.app/api/top-langs/?username=pthie&layout=donut"/>
+</p>
+
+
+
+
+
 
 ## Get in touch
 
@@ -43,3 +47,4 @@ I am a passionate data scientist currently pursuing a Ph.D. in Economics, where 
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
+
