@@ -24,10 +24,6 @@ Check out <a href="https://pthie.github.io/">my portfolio</a> with more informat
     <img src="https://skillicons.dev/icons?i=git,github,anaconda,latex&theme=light" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats-patricks-projects-a2ec2c8e.vercel.app/api/top-langs/?username=pthie&layout=donut&theme=radical"/>
-</p>
-
 
 ## Get in touch
 
