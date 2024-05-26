@@ -1,6 +1,6 @@
 # Greetings 👋!
 
-I am a passionate data scientist currently pursuing a Ph.D. in Economics, where I explore the intricate relationships between data and economic phenomena, with a particular focus on the real estate market, amenities and disamenities, and environmental factors. With over 5 years (and counting) of hands-on experience in the field, I navigate the nuances of data and its idiosyncrasies on a daily basis.
+I am a passionate data scientist a Ph.D. in Economics, where I explore the intricate relationships between data and economic phenomena, with a particular focus on the real estate market, amenities and disamenities, and environmental factors. With over 5 years (and counting) of hands-on experience in the field, I navigate the nuances of data and its idiosyncrasies on a daily basis.
 
 Check out <a href="https://pthie.github.io/">my portfolio</a> with more information!
 
