@@ -2,7 +2,7 @@
 
 I am a passionate data scientist with a Ph.D. in Economics, where I explore the intricate relationships between data and economic phenomena, with a particular focus on the real estate market, amenities and disamenities, and environmental factors. With over 5 years (and counting) of hands-on experience in the field, I navigate the nuances of data and its idiosyncrasies on a daily basis.
 
-Check out <a href="https://pthie.github.io/">my portfolio</a> with more information!
+Check out <a href="www.patrickthiel.com">my website</a> with more information!
 
 ## Languages and Tools
 <!-- markdownlint-disable MD033 -->
