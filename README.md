@@ -14,7 +14,10 @@ Check out <a href="https://pthie.github.io/">my portfolio</a> with more informat
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi"/>
   &nbsp;
+
+
 </p>
 
 <p align="left">
